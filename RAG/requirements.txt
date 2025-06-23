@@ -1,0 +1,11 @@
+torch
+transformers
+modelscope
+openai
+faiss-cpu
+sentence-transformers
+PyPDF2
+jieba
+scikit-learn
+numpy
+pathlib
